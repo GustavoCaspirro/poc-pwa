@@ -1,1 +1,8 @@
 /* You can add global styles to this file, and also import other style files */
+
+$bg-color-main: #E3E3E3;
+
+body {
+  background-color: $bg-color-main;
+  margin: 0;
+}

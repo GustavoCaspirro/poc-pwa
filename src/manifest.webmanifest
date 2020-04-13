@@ -1,6 +1,6 @@
 {
-  "name": "poc-pwa",
-  "short_name": "poc-pwa",
+  "name": "Poc de Angular com Pwa para estudo",
+  "short_name": "Poc-PWA",
   "theme_color": "#DD0031",
   "background_color": "#fafafa",
   "display": "standalone",

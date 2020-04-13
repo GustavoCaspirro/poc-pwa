@@ -1,27 +1,18 @@
-# PocPwa
+# Poc Pwa
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 9.1.0.
+![N|Solid](https://github.com/GustavoCaspirro/poc-pwa/blob/master/src/assets/images/angular-pwa.png)
 
-## Development server
+  - Poc com intuíto de auxiliar no aprendizado referente a união de pwa + angular 9.
+  - [Este projeto](https://github.com/GustavoCaspirro/poc-pwa) está em meu reposítorio particular no Github.
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
+## Já implementado!
 
-## Code scaffolding
+  - [Manifesto](https://developer.mozilla.org/en-US/docs/Web/Manifest), arquivo de configuração em json nomeado no projeto de manifest.webmanifest.
+  - [Service Worker](https://developer.mozilla.org/en-US/docs/Web/API/Service_Worker_API), arquivo nomeado no projeto de ngsw-config.json.
 
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
 
-## Build
+Links complementares:
+  - [Documentação Angular - PWA](https://angular.io/guide/service-worker-getting-started)
 
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory. Use the `--prod` flag for a production build.
-
-## Running unit tests
-
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
-
-## Running end-to-end tests
-
-Run `ng e2e` to execute the end-to-end tests via [Protractor](http://www.protractortest.org/).
-
-## Further help
-
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI README](https://github.com/angular/angular-cli/blob/master/README.md).
+## Autor
+* **Gustavo Caspirro** - [Github Pessoal](https://github.com/GustavoCaspirro)
