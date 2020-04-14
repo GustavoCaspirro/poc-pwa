@@ -1,6 +1,6 @@
 # Poc Pwa
 
-![N|Solid](./assets/images/angular-pwa.png)
+![N|Solid](src/assets/images/angular-pwa.png)
 
   - Poc com intuíto de auxiliar no aprendizado referente a união de pwa + angular 9.
   - [Este projeto](https://github.com/GustavoCaspirro/poc-pwa) está em meu reposítorio particular no Github.
