@@ -2,6 +2,8 @@
 
 ![N|Solid](src/assets/images/angular-pwa.png)
 
+Preview: [Acesse o Preview da POC de PWA](https://laughing-banach-31f778.netlify.app/)
+
   - Poc com intuíto de auxiliar no aprendizado referente a união de pwa + angular 9.
   - [Este projeto](https://github.com/GustavoCaspirro/poc-pwa) está em meu reposítorio particular no Github.
 
